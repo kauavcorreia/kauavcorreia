@@ -4,4 +4,4 @@
 
 
 ###  Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=nasm,c,python,fastapi,flask,mysql,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,fastapi,flask,mysql,linux,git)](https://skillicons.dev)
