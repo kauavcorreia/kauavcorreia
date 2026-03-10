@@ -1,12 +1,14 @@
 # Kauã
 ### backend | low level
+
 ### 🛠️ Tecnologias e Stacks
 
-#### ⚙️ Low Level & Systems
+⚙️ Low Level & Systems
 <div align="left">
-  <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white" height="35" style="vertical-align:middle; margin-bottom:10px;" />
-  <img src="https://skillicons.dev/icons?i=c,bash,linux" height="40" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="40" width="40" style="background-color: #1a1a1a; border-radius: 10px; padding: 5px;" alt="assembly" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux" height="40" alt="low-level-icons" />
 </div>
+
 
 #### 🌐 Backend & Databases
 <div align="left">
