@@ -4,7 +4,8 @@
 
 #### ⚙️ Low Level & Systems
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=![Assembly],c,bash,linux" height="40" alt="low-level-icons" />
+  <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white" height="35" style="vertical-align:middle; margin-bottom:10px;" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux" height="40" style="vertical-align:middle;" />
 </div>
 
 #### 🌐 Backend & Databases
