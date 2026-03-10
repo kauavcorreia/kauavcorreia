@@ -1,10 +1,10 @@
 # Kauã
-# backend | low level
+### backend | low level
 ### 🛠️ Tecnologias e Stacks
 
 #### ⚙️ Low Level & Systems
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=assembly,c,bash,linux" height="40" alt="low-level-icons" />
+  <img src="https://skillicons.dev/icons?i=![Assembly],c,bash,linux" height="40" alt="low-level-icons" />
 </div>
 
 #### 🌐 Backend & Databases
