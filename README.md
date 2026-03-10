@@ -1,23 +1,31 @@
-# Kauã
-### backend | low level
+##  Kauã
+
 
 ### 🛠️ Tecnologias e Stacks
 
-⚙️ Low Level & Systems
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="40" width="40" style="background-color: #1a1a1a; border-radius: 10px; padding: 5px;" alt="assembly" />
-  <img src="https://skillicons.dev/icons?i=c,bash,linux" height="40" alt="low-level-icons" />
-</div>
-
+#### ⚙️ Low Level & Systems
+![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 🌐 Backend & Databases
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,sqlite" height="40" alt="backend-icons" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 🔧 Ferramentas & DevEnv
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,github,linuxmint" height="40" alt="tools-icons" />
-</div>
+#### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
+### 🚀 Projetos em Destaque
+* **Sistemas de Backend:** Construção de APIs robustas utilizando Python com FastAPI e Flask.
+* **Fundamentos de Programação:** Implementação de estruturas de dados e lógica de baixo nível em C.
+* **Automação:** Scripts em Bash para otimização de fluxos em ambientes Linux (Mint).
+
+### 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark)
