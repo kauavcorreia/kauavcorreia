@@ -21,11 +21,4 @@
 
 ---
 
-### 🚀 Projetos em Destaque
-* **Sistemas de Backend:** Construção de APIs robustas utilizando Python com FastAPI e Flask.
-* **Fundamentos de Programação:** Implementação de estruturas de dados e lógica de baixo nível em C.
-* **Automação:** Scripts em Bash para otimização de fluxos em ambientes Linux (Mint).
 
-### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark)
