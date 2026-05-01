@@ -29,9 +29,4 @@ Sou um desenvolvedor focado em **Backend e Sistemas**, apaixonado por entender c
 - **[PerryOS-v2](https://github.com/kauavcorreia/PerryOS-v2):** Um projeto desafiador de sistema operacional desenvolvido em C e Assembly.
 - **[Humanizy-Med](https://github.com/kauavcorreia/Humanizy-Med):** Chatbot inteligente para saúde integrado com a API do Groq.
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauavcorreia&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauavcorreia&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</div>
